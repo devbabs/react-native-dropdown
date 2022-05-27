@@ -1,4 +1,13 @@
 {
     "name": "@babs/react-native-dropdown",
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/devbabs/react-native-dropdown.git"
+    },
+    "author": {
+        "name": "Babalola Macaulay",
+        "email": "babs@babs.dev",
+        "url": "https://babs.dev"
+    }
 }
